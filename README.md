@@ -1,1 +1,1 @@
-[![Deploy to Azure](https://azuredeploy.net/deploybutton.svg)](https://deploy.azure.com/?repository=https://github.com/itzikbekel/cyberark/tree/cyberark/)
+[![Deploy to Azure](https://azuredeploy.net/deploybutton.svg)](https://deploy.azure.com/?repository=https://github.com/gitmaximd/Test/blob/master/Infrastructure/Templates/Alerts/subscribeAzureAlerts/)
